@@ -1,7 +1,7 @@
 # Bookstore
 Bookstore
 
-This BookStore Website is using PHP and Database(MySQL). In this website you can Register and Edit Profile. And also all the book data will store at the database for easy to add, edit and delete.
+This BookStore Website makes use of PHP and a database (MySQL). You can Register and Edit your Profile on this website. In addition, all book data will be stored in a database for easy addition, editing, and deletion.
 <br>
 ![HomePage](/homepage.PNG)
 ![EditProfile](/editprofile.PNG)
